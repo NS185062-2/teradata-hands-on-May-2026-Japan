@@ -1,0 +1,1 @@
+# teradata-hands-on-May-2026-Japan
