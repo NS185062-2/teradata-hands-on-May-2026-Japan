@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "teradata": {
+      "command": "uvx",
+      "args": [
+        "teradata-mcp-server[tdvs]",
+        "--profile",
+        "dataScientist"
+      ],
+      "env": {
+        "DATABASE_URI": "teradata://ts20001901_1i6wnxtgv0vsxe9l:csae1i6wnxtgv0vsxe9l@54.156.178.22:1025/ts20001901_1i6wnxtgv0vsxe9l",
+        "TD_BASE_URL": "https://pmlakeprod.innovationlabs.teradata.com/api/accounts/0507f6df-05a3-4d0b-bea7-2879bd3d64e0",
+        "TD_PAT": "gwxhzsFB6c8JW6OAxMrbbtWpHrZg",
+        "TD_PEM": "C:/Users/TS200019/AppData/Roaming/Claude/ts20001901_1i6wnxtgv0vsxe9l.pem"
+      }
+    }
+  },
+  "preferences": {
+    "menuBarEnabled": false,
+    "legacyQuickEntryEnabled": false,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "sidebarMode": "chat",
+    "coworkWebSearchEnabled": true
+  }
+}
