@@ -1,6 +1,6 @@
 # teradata-hands-on-May-2026-Japan
 <div align="center">
-  <img src="https://teradata.com" width="300">
+  <img src="teradata-logo.png" width="300">
   <h1>Teradata ハンズオンセッション</h1>
   <p><b>Business Outcome Led - Technology Enabled</b></p>
 </div>
